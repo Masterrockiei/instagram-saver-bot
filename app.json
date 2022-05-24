@@ -3,6 +3,14 @@
     "description": "I can download instagram media",
     "stack"
     "keywords": [
-      "aiogram"
-      "emoji"
+      "aiogram",
+      "emoji",
       "instalooter==2.4.4"
+     ],
+     "website": "https://github.com/Masterrockiei/instagram-saver-bot",
+    "repository": "https://github.com/Masterrockiei/instagram-saver-bot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Your bot token.",
+            "required": true
+        },
