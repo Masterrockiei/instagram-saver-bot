@@ -1,5 +1,8 @@
 {
     "name": "Sakura",
-    "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "stack": "container",
+    "description": "I can download instagram media",
+    "stack"
     "keywords": [
+      "aiogram"
+      "emoji"
+      "instalooter==2.4.4"
