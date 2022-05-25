@@ -1,8 +1,7 @@
 {
     "name": "Sakura",
     "description": "I can download instagram media",
-    "stack"
-    "keywords": [
+      "keywords": [
       "aiogram",
       "emoji",
       "instalooter==2.4.4"
